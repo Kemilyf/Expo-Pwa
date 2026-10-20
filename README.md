@@ -16,7 +16,7 @@ Projeto inicial de uma aplicação multiplataforma com Expo, React Native Web e 
 ## O que já existe
 
 - Tela inicial adaptável com informações sobre o scaffold.
-- Estrutura de navegação do Expo Router e documento HTML com idioma `pt-BR), metadados e referência ao manifesto.
+- Estrutura de navegação do Expo Router e documento HTML com idioma `pt-BR`, metadados e referência ao manifesto.
 - Manifesto com nome, cores, orientação e modo de exibição standalone.
 - Ícone SVG em `public/icons/app-icon.svg`.
 - Comando de exportação web que executa o Workbox após o Expo.
